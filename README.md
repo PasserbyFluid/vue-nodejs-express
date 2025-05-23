@@ -26,6 +26,26 @@
 - 电影详情展示
 - 评分系统
 
+## 效果图展示
+
+### 首页展示
+![首页展示](./docs/home.png)
+
+### 电影详情页
+![电影详情](./docs/movie_detail.png)
+
+### 周边商品
+![周边商品](./docs/zhoubian.png)
+
+### 管理后台
+![管理后台-1](./docs/management.png)
+![管理后台-2](./docs/management1.png)
+![管理后台-3](./docs/management2.png)
+
+### 用户登录注册
+![登录页面](./docs/login.png)
+![注册页面](./docs/register.png)
+
 ## 项目结构
 
 ```
